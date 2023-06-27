@@ -1,1 +1,1 @@
-{"hhh":"baasdasdascon"}
+{"get":"fixtures","parameters":{"ids":"-6185392-6185392"},"errors":{"ids":"The Ids field does not match the regular expression: [id-id-id...] or integer. Maximum of 20 ids allowed."},"results":0,"paging":{"current":1,"total":1},"response":[]}
