@@ -59,7 +59,7 @@
          },
          "goals":{
             "home":5,
-            "away":4
+            "away":0
          },
          "score":{
             "halftime":{
@@ -455,10 +455,10 @@
                "name":"Bahia",
                "logo":"https://media-3.api-sports.io/football/teams/118.png",
                "winner":null
-            
+            }
          },
          "goals":{
-            "home":3,
+            "home":9,
             "away":0
          },
          "score":{
