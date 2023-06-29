@@ -455,10 +455,10 @@
                "name":"Bahia",
                "logo":"https://media-3.api-sports.io/football/teams/118.png",
                "winner":null
-            }
+            
          },
          "goals":{
-            "home":null,
+            "home":3,
             "away":0
          },
          "score":{
@@ -538,7 +538,7 @@
             }
          },
          "goals":{
-            "home":null,
+            "home":8,
             "away":0
          },
          "score":{
@@ -618,7 +618,7 @@
             }
          },
          "goals":{
-            "home":null,
+            "home":7,
             "away":0
          },
          "score":{
