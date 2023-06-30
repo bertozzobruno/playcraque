@@ -1,1 +1,28 @@
-
+{"Top Five":{
+    "Passes Accuracy": {
+      "Player": maxPassesAccuracy.player,
+      "playerId": maxPassesAccuracy.playerId,
+      "valor": maxPassesAccuracy.value
+    },
+    "Tackles Total": {
+      "Player": maxTacklesTotal.player,
+      "playerId": maxTacklesTotal.playerId,
+      "valor": maxTacklesTotal.value
+    },
+    "Dribbles Success": {
+      "Player": maxDribblesSuccess.player,
+      "playerId": maxDribblesSuccess.playerId,
+      "valor": maxDribblesSuccess.value
+    },
+    "Goals Total": {
+      "Player": maxGoalsTotal.player,
+      "playerId": maxGoalsTotal.playerId,
+      "valor": maxGoalsTotal.value
+    },
+    "Goals Saves": {
+      "Player": maxGoalsSaves.player,
+      "playerId": maxGoalsSaves.playerId,
+      "valor": maxGoalsSaves.value
+    }
+  }
+  }
